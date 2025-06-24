@@ -1,4 +1,4 @@
----
+if---
 title: "stno"
 author: "@itsme (Heinrich Xiao)"
 description: "A one-handed steno keyboard with joysticks for thumb keys"
@@ -34,3 +34,10 @@ Time spent: 6hr
 Today, I'm backjournaling cuz i forgot to journal before. also, this is when i decided to reinforce the trend of my previous keyboards (they're all one handed), so i dont need a right half.
 
 Time spent: 30 minutes
+
+## June 23
+Today, I spent too much time making the case. I also learned that I could just use thicken on a surface in onshape, so I didn't have to painstakingly go through every point and move them slightly further away from the original point so that I can extrude the area in between.
+
+then I added heatset inserts. I couldn't find a model that was the size im actually gonna use, so I just went with the one I found first. I also wanted to use l7 m3s but apparently there aren't any models for that so I just went with an l6.
+
+Time spent: 9hr 28mins (I need to touch grass)
