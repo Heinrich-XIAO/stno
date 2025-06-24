@@ -10104,7 +10104,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "stno:XDCR_COM-09032"
+		(property "Footprint" "stno:PS4_joystick"
 			(at 143.51 35.56 0)
 			(effects
 				(font
@@ -12659,7 +12659,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "stno:XDCR_COM-09032"
+		(property "Footprint" "stno:PS4_joystick"
 			(at 191.77 35.56 0)
 			(effects
 				(font
