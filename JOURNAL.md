@@ -1,4 +1,4 @@
-if---
+---
 title: "stno"
 author: "@itsme (Heinrich Xiao)"
 description: "A one-handed steno keyboard with joysticks for thumb keys"
