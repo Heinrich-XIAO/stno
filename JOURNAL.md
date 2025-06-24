@@ -41,3 +41,8 @@ Today, I spent too much time making the case. I also learned that I could just u
 then I added heatset inserts. I couldn't find a model that was the size im actually gonna use, so I just went with the one I found first. I also wanted to use l7 m3s but apparently there aren't any models for that so I just went with an l6.
 
 Time spent: 9hr 28mins (I need to touch grass)
+
+## June 24
+I made the assembly in onshape. this was annoying because I also just realized that I used the wrong footprint on my PCB. but I didn't have access to kicad since I was on a school Chromebook,so I had to remote into my computer and fix the footprint, export a step file, email it to myself, and then finally import it into onshape. then I realized that the 3d model I had for my joystick was the wrong one for the footprint, and I didn't want to remote again (I was on a different Chromebook) so I had to find a joystick model (specifically, the pins were slightly different. slightly meaning millimetres) that was actually the on I was using (PS4) this took forever.
+
+Time spent: 4hr (at school and approximately and also on five different Chromebooks)
