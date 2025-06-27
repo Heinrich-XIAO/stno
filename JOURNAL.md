@@ -46,3 +46,8 @@ Time spent: 9hr 28mins (I need to touch grass)
 I made the assembly in onshape. this was annoying because I also just realized that I used the wrong footprint on my PCB. but I didn't have access to kicad since I was on a school Chromebook,so I had to remote into my computer and fix the footprint, export a step file, email it to myself, and then finally import it into onshape. then I realized that the 3d model I had for my joystick was the wrong one for the footprint, and I didn't want to remote again (I was on a different Chromebook) so I had to find a joystick model (specifically, the pins were slightly different. slightly meaning millimetres) that was actually the on I was using (PS4) this took forever.
 
 Time spent: 4hr (at school and approximately and also on five different Chromebooks)
+
+## June 25
+I realized that all the hotswap sockets were the wrong way around. so i had to rewire all of them. pain. 
+
+Time spent: 5hr 30mins 
