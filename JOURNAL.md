@@ -50,4 +50,4 @@ Time spent: 4hr (at school and approximately and also on five different Chromebo
 ## June 25
 I realized that all the hotswap sockets were the wrong way around. so i had to rewire all of them. pain. 
 
-Time spent: 5hr 30mins 
+Time spent: 2hr 30mins 
