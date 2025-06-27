@@ -4509,7 +4509,7 @@
 				)
 			)
 		)
-		(property "Footprint" "keebio:Kailh_MX_Socket-compat"
+		(property "Footprint" "Library:hotswap"
 			(at 195.58 147.32 0)
 			(effects
 				(font
@@ -4643,7 +4643,7 @@
 				)
 			)
 		)
-		(property "Footprint" "keebio:Kailh_MX_Socket-compat"
+		(property "Footprint" "Library:hotswap"
 			(at 195.58 129.54 0)
 			(effects
 				(font
@@ -4911,7 +4911,7 @@
 				)
 			)
 		)
-		(property "Footprint" "keebio:Kailh_MX_Socket-compat"
+		(property "Footprint" "Library:hotswap"
 			(at 195.58 76.2 0)
 			(effects
 				(font
@@ -5111,7 +5111,7 @@
 				)
 			)
 		)
-		(property "Footprint" "keebio:Kailh_MX_Socket-compat"
+		(property "Footprint" "Library:hotswap"
 			(at 195.58 111.76 0)
 			(effects
 				(font
@@ -5387,7 +5387,7 @@
 				)
 			)
 		)
-		(property "Footprint" "keebio:Kailh_MX_Socket-compat"
+		(property "Footprint" "Library:hotswap"
 			(at 181.61 76.2 0)
 			(effects
 				(font
@@ -5920,7 +5920,7 @@
 				)
 			)
 		)
-		(property "Footprint" "keebio:Kailh_MX_Socket-compat"
+		(property "Footprint" "Library:hotswap"
 			(at 181.61 93.98 0)
 			(effects
 				(font
@@ -5988,7 +5988,7 @@
 				)
 			)
 		)
-		(property "Footprint" "keebio:Kailh_MX_Socket-compat"
+		(property "Footprint" "Library:hotswap"
 			(at 209.55 129.54 0)
 			(effects
 				(font
@@ -6313,7 +6313,7 @@
 				)
 			)
 		)
-		(property "Footprint" "keebio:Kailh_MX_Socket-compat"
+		(property "Footprint" "Library:hotswap"
 			(at 223.52 111.76 0)
 			(effects
 				(font
@@ -6990,7 +6990,7 @@
 				)
 			)
 		)
-		(property "Footprint" "keebio:Kailh_MX_Socket-compat"
+		(property "Footprint" "Library:hotswap"
 			(at 209.55 93.98 0)
 			(effects
 				(font
@@ -7124,7 +7124,7 @@
 				)
 			)
 		)
-		(property "Footprint" "keebio:Kailh_MX_Socket-compat"
+		(property "Footprint" "Library:hotswap"
 			(at 237.49 111.76 0)
 			(effects
 				(font
@@ -7907,7 +7907,7 @@
 				)
 			)
 		)
-		(property "Footprint" "keebio:Kailh_MX_Socket-compat"
+		(property "Footprint" "Library:hotswap"
 			(at 181.61 129.54 0)
 			(effects
 				(font
@@ -8051,7 +8051,7 @@
 				)
 			)
 		)
-		(property "Footprint" "keebio:Kailh_MX_Socket-compat"
+		(property "Footprint" "Library:hotswap"
 			(at 223.52 76.2 0)
 			(effects
 				(font
@@ -9511,7 +9511,7 @@
 				)
 			)
 		)
-		(property "Footprint" "keebio:Kailh_MX_Socket-compat"
+		(property "Footprint" "Library:hotswap"
 			(at 237.49 147.32 0)
 			(effects
 				(font
@@ -9902,7 +9902,7 @@
 				)
 			)
 		)
-		(property "Footprint" "keebio:Kailh_MX_Socket-compat"
+		(property "Footprint" "Library:hotswap"
 			(at 181.61 147.32 0)
 			(effects
 				(font
@@ -10798,7 +10798,7 @@
 				)
 			)
 		)
-		(property "Footprint" "keebio:Kailh_MX_Socket-compat"
+		(property "Footprint" "Library:hotswap"
 			(at 237.49 93.98 0)
 			(effects
 				(font
@@ -10866,7 +10866,7 @@
 				)
 			)
 		)
-		(property "Footprint" "keebio:Kailh_MX_Socket-compat"
+		(property "Footprint" "Library:hotswap"
 			(at 181.61 111.76 0)
 			(effects
 				(font
@@ -12878,7 +12878,7 @@
 				)
 			)
 		)
-		(property "Footprint" "keebio:Kailh_MX_Socket-compat"
+		(property "Footprint" "Library:hotswap"
 			(at 209.55 111.76 0)
 			(effects
 				(font
@@ -13137,7 +13137,7 @@
 				)
 			)
 		)
-		(property "Footprint" "keebio:Kailh_MX_Socket-compat"
+		(property "Footprint" "Library:hotswap"
 			(at 223.52 147.32 0)
 			(effects
 				(font
@@ -13661,7 +13661,7 @@
 				)
 			)
 		)
-		(property "Footprint" "keebio:Kailh_MX_Socket-compat"
+		(property "Footprint" "Library:hotswap"
 			(at 237.49 76.2 0)
 			(effects
 				(font
@@ -13948,7 +13948,7 @@
 				)
 			)
 		)
-		(property "Footprint" "keebio:Kailh_MX_Socket-compat"
+		(property "Footprint" "Library:hotswap"
 			(at 223.52 129.54 0)
 			(effects
 				(font
@@ -14415,7 +14415,7 @@
 				)
 			)
 		)
-		(property "Footprint" "keebio:Kailh_MX_Socket-compat"
+		(property "Footprint" "Library:hotswap"
 			(at 223.52 93.98 0)
 			(effects
 				(font
@@ -15480,7 +15480,7 @@
 				)
 			)
 		)
-		(property "Footprint" "keebio:Kailh_MX_Socket-compat"
+		(property "Footprint" "Library:hotswap"
 			(at 237.49 129.54 0)
 			(effects
 				(font
@@ -15548,7 +15548,7 @@
 				)
 			)
 		)
-		(property "Footprint" "keebio:Kailh_MX_Socket-compat"
+		(property "Footprint" "Library:hotswap"
 			(at 209.55 147.32 0)
 			(effects
 				(font
@@ -17165,7 +17165,7 @@
 				)
 			)
 		)
-		(property "Footprint" "keebio:Kailh_MX_Socket-compat"
+		(property "Footprint" "Library:hotswap"
 			(at 209.55 76.2 0)
 			(effects
 				(font
@@ -17299,7 +17299,7 @@
 				)
 			)
 		)
-		(property "Footprint" "keebio:Kailh_MX_Socket-compat"
+		(property "Footprint" "Library:hotswap"
 			(at 195.58 93.98 0)
 			(effects
 				(font
