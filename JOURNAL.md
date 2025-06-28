@@ -51,3 +51,15 @@ Time spent: 4hr (at school and approximately and also on five different Chromebo
 I realized that all the hotswap sockets were the wrong way around. so i had to rewire all of them. pain. 
 
 Time spent: 2hr 30mins 
+
+## June 26
+I spent 3hr just watching videos and listening to how switches sound and reading wiki articles on which switches to use for steno (apparently i need light switches which makes sense and i liked light switches anyways). So, i landed on the Gateron Clear / White and ill switch the springs out for 20 gram springs (https://stenokeyboards.com/products/20-gram-springs)
+
+Time spent: 3hr 
+
+## June 28
+I spent a lot of time adding the 3d models switch by switch, so i asked around, and was told i could do them all at once by just making a new library and using that footprint (includes 3d models) instead.
+
+so with that, i also added the diodes. then i added the arduino nano esp32.
+
+Time spent: 5hr
