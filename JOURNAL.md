@@ -63,3 +63,14 @@ I spent a lot of time adding the 3d models switch by switch, so i asked around, 
 so with that, i also added the diodes. then i added the arduino nano esp32.
 
 Time spent: 5hr
+
+i spent the rest of the day figuring out which hinge to use, to use 3d printed screws or not to use 3d printed screws, making the mechanism, tuning parameters (parameters being the lengths of stuff. how many holes to put, stuff like that). then i just spent a few hours using mc master carr figuring out what m meant and whether to use imperial or metric (used metric, proud canadian). i decided on 96016A556 for the thumb screw (round ones look better and from my experience feel better too)  93635A017 and 90591A250 for bolts and nuts respectively only because its dimensions worked. 
+![image](https://github.com/user-attachments/assets/488a4c84-64c8-472e-bf4e-89268a71b3d4)
+![image](https://github.com/user-attachments/assets/7f784a09-3d85-462b-90c8-0cedfa90f059)
+i hope i wont have to get more parts that come in packs of 100... not foreshadowing.
+
+Time spent: 7hr
+
+Total time spent: 12hr......
+
+
