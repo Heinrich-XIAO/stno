@@ -27,4 +27,4 @@ stno is a one-handed steno keyboard with joysticks for my thumb. I wanted to mak
 - https://www.aliexpress.com/item/1005003913466247.html (70pcs $8.06 cad free shipping)
 - PCB from JLCPCB ($31.82usd total after shipping)
 
-**Total: US$182.49**
+**Total: US$205.11**
