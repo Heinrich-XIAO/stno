@@ -23,4 +23,4 @@ stno is a one-handed steno keyboard with joysticks for my thumb. I wanted to mak
 - https://www.amazon.ca/uxcell-knurled-Insert-Nuts-Embedment/dp/B07LBRB5HL ($10.29 cad free shipping)
 - https://www.amazon.ca/Socket-Screws-Bolts-Thread-100pcs/dp/B07CMRQ3TB ($8.56 cad free shipping)
 - https://www.aliexpress.com/item/1005003913466247.html (70pcs $8.06 cad free shipping)
-- PCB
+- PCB from JLCPCB ($31.82usd total after shipping)
