@@ -73,4 +73,7 @@ Time spent: 7hr
 
 Total time spent: 12hr......
 
+## June 30
+found all the parts. yay! now i know how much debt im in. and its a lot. ~200usd. bom is in the readme.
 
+Time spent: 3hr
