@@ -77,3 +77,13 @@ Total time spent: 12hr......
 found all the parts. yay! now i know how much debt im in. and its a lot. ~200usd. bom is in the readme.
 
 Time spent: 3hr
+
+## July 1 
+Celebrated Canada Day! Also drank a shot of maple syrup.
+
+Time spent: 0. Time spent being patriotic: 25hr.
+
+## July 2
+I made the firmware. this was very annoying. the javelin firmware that i was gonna use wasn't compatible with joysticks for some reason (i wonder why). i spent a bunch of time tryna use qmk, but i realized joysticks would be annoying to make. so i just had to go with kmk and plover. kmk for some reason did support joysticks. so, i went with kmk and using non-embedded steno. there was also a lot of optimizing my layout.
+
+Time spent: 9hr
