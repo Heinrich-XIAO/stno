@@ -32,4 +32,4 @@ stno is a one-handed steno keyboard with joysticks for my thumb. I wanted to mak
 
 all aliexpress and amazon.ca (not .com) items are in cad.
 
-**Total: US$145.99**
+**Total: US$138.50**
