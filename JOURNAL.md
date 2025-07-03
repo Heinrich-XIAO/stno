@@ -5,6 +5,8 @@ description: "A one-handed steno keyboard with joysticks for thumb keys"
 created_at: "2025-06-19"
 ---
 
+Total time: 53.05 hr i think
+
 # stno
 
 ## June 19 
