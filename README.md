@@ -14,22 +14,24 @@ stno is a one-handed steno keyboard with joysticks for my thumb. I wanted to mak
 ![image](https://github.com/user-attachments/assets/3d75e30c-17ae-423f-9a38-0105f57f4d2c)
 
 ## 📦BOM
-- ~~https://stenokeyboards.com/products/20-gram-springs $10 USD~~
-- https://www.aliexpress.com/item/1005006171011050.html ($13.63, $4.52 after welcome deal) this one is actually in stock unlike another store i could mention
-- https://milktooth.com/products/neptune 3 packs of ten ($27.26 after shipping, $5.09 per pack, $11.99 shipping) (all usd)
-- https://store-usa.arduino.cc/products/nano-esp32 $29.67 (usd, i remember choosing canada as my country idk why the url still says usa)
-- https://www.amazon.com/PS5-Hall-Effect-Joystick-Replacement-2-Pack/dp/B0DN8T9KJW (ships to canada, $7.68 shipping + $13.99 total: 21.67)
-- ~~96016A556, 90591A250, 91280A039 one pack each for $17.60 usd without shipping (ill figure out shipping later, i'd estimate around 15 dollars usd seeing that its video on how to order says 10.74 dollars by ground which is the cheapest option other than pickup)~~
-- https://www.amazon.ca/MECCANIXITY-Stainless-Thumbscrew-Appliances-Electronic/dp/B0F282TJ7D ($13.99)
-- https://www.amazon.ca/Walfront-Socket-Head-Button-Screws/dp/B0742DDLQ1 ($13.11) (this is an assortment of screws, but its still somehow cheaper than some non-assortements ive found. it also means hackclub won't have to pay for 10 dollars worth of bolts every time i need a different length of bolt.)
-- ~~https://www.amazon.ca/Mechkeeb-Profile-Keycaps-Mechanical-Keyboard/dp/B0F4R91D7L ($13.53 for 20pcs red, and $10.80 for 10pcs yellow, cad + $7.59 cad shipping)~~
-- https://www.aliexpress.com/item/1005008653485944.html (3 packs of ten, $1.36 each, $5.31 total)
-- ~~https://www.amazon.ca/uxcell-knurled-Insert-Nuts-Embedment/dp/B07LBRB5HL ($10.29 cad free shipping)~~
-- https://www.aliexpress.com/item/1005003582355741.html heat inserts (m3 4mm) ($4.79 free shipping $1.39 after welcome deal)
-- ~~https://www.amazon.ca/Socket-Screws-Bolts-Thread-100pcs/dp/B07CMRQ3TB~~ ($8.56 cad free shipping)
-- https://www.aliexpress.com/item/1005003913466247.html (70pcs $9.83 cad free shipping after welcome deal, $1.39)
-- PCB from JLCPCB ($31.82usd total after shipping)
 
-all aliexpress and amazon.ca (not .com) items are in cad.
+| ✅ | Item Description               | Source                                                                                                                                  | Price                                      | Notes                                          |
+|----|-------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|------------------------------------------------|
+| ❌ | 20g Springs                   | [Steno Keyboards](https://stenokeyboards.com/products/20-gram-springs)                                                                 | $10 USD                                    | ~~Out of stock~~                              |
+| ✅ | Microswitches                 | [AliExpress](https://www.aliexpress.com/item/1005006171011050.html)                                                                    | $13.63 CAD ($4.52 CAD after welcome deal)  | In stock                                      |
+| ✅ | Neptune Switches (3×10)       | [Milktooth](https://milktooth.com/products/neptune)                                                                                     | $27.26 USD ($5.09/pack + $11.99 shipping)  | All USD                                       |
+| ✅ | Arduino Nano ESP32            | [Arduino Store](https://store-usa.arduino.cc/products/nano-esp32)                                                                       | $29.67 USD                                 | Ships to Canada                               |
+| ✅ | PS5 Hall Effect Joystick      | [Amazon.com](https://www.amazon.com/PS5-Hall-Effect-Joystick-Replacement-2-Pack/dp/B0DN8T9KJW)                                          | $21.67 USD ($13.99 + $7.68 shipping)       | Ships to Canada                               |
+| ❌ | McMaster Screws (3 SKUs)      | McMaster (96016A556, 90591A250, 91280A039)                                                                                               | $17.60 USD (+~$15 shipping est.)           | ~~Estimate shipping later~~                   |
+| ✅ | Thumbscrews (M3x10mm)         | [Amazon.ca](https://www.amazon.ca/MECCANIXITY-Stainless-Thumbscrew-Appliances-Electronic/dp/B0F282TJ7D)                                | $13.99 CAD                                 |                                                |
+| ✅ | Assorted Screws               | [Amazon.ca](https://www.amazon.ca/Walfront-Socket-Head-Button-Screws/dp/B0742DDLQ1)                                                     | $13.11 CAD                                 | Cheaper than non-assorted                     |
+| ❌ | Keycaps                       | [Amazon.ca](https://www.amazon.ca/Mechkeeb-Profile-Keycaps-Mechanical-Keyboard/dp/B0F4R91D7L)                                           | $13.53 red / $10.80 yellow + $7.59 CAD     | ~~Red + yellow set~~                          |
+| ✅ | Diodes (3×10)                 | [AliExpress](https://www.aliexpress.com/item/1005008653485944.html)                                                                    | $5.31 CAD ($1.36 each)                     |                                                |
+| ❌ | Brass Heat Inserts            | [Amazon.ca](https://www.amazon.ca/uxcell-knurled-Insert-Nuts-Embedment/dp/B07LBRB5HL)                                                   | $10.29 CAD                                 | ~~Replaced~~                                  |
+| ✅ | Heat Inserts (M3×4mm)         | [AliExpress](https://www.aliexpress.com/item/1005003582355741.html)                                                                    | $4.79 CAD ($1.39 after welcome deal)       | Free shipping                                 |
+| ❌ | Socket Screws                 | [Amazon.ca](https://www.amazon.ca/Socket-Screws-Bolts-Thread-100pcs/dp/B07CMRQ3TB)                                                      | $8.56 CAD                                  | ~~Not used~~                                  |
+| ✅ | 70pcs Screws                  | [AliExpress](https://www.aliexpress.com/item/1005003913466247.html)                                                                    | $9.83 CAD (or $1.39 welcome deal)          | Free shipping                                 |
+| ✅ | PCB                           | JLCPCB                                                                                                                                    | $31.82 USD                                 | After shipping                                |
+
 
 **Total: US$145.99**
