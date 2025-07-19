@@ -9,7 +9,7 @@ stno is a one-handed steno keyboard with joysticks for my thumb. I wanted to mak
 ![1751285280-wayshot](https://github.com/user-attachments/assets/18380403-13e3-494b-adcc-782f56109bb4)
 
 ## 📏CAD
-![image](https://github.com/user-attachments/assets/9fb9f317-1e80-4c72-85db-c1b9620f1773)
+<img width="733" height="677" alt="image" src="https://github.com/user-attachments/assets/99c169c7-9ba5-4d01-b587-91f7822adfe7" />
 
 ![image](https://github.com/user-attachments/assets/3d75e30c-17ae-423f-9a38-0105f57f4d2c)
 
